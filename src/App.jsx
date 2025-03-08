@@ -14,7 +14,7 @@ function App() {
           <a target="_blank" href="https://github.com/tonybnya/counter-app">
             <i class="fa-brands fa-github"></i>
           </a>
-          <a target="_blank" href="https://tonybnya-counter-app.onrender.com">
+          <a target="_blank" href="/">
             <i class="fa-solid fa-globe"></i>
           </a>
         </div>
