@@ -12,7 +12,7 @@ function App() {
         <h1 className="tracking-tighter">Counter App</h1>
         <div className="flex gap-2">
           <a target="_blank" href="https://github.com/tonybnya/counter-app">
-            <i class="fa-brands fa-github"></i>
+            <i className="fa-brands fa-github"></i>
           </a>
         </div>
       </div>
@@ -42,7 +42,6 @@ function App() {
         <button className="bg-red-500" onClick={() => setCount(0)}>
           Reset
         </button>
-        {/* <button onClick={() => setCount((count) => 0)}>Reset</button> */}
       </div>
     </>
   );
