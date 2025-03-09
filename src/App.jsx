@@ -2,7 +2,7 @@ import { useState } from "react";
 import counterLogo from "/counter.svg";
 import "./App.css";
 
-function App() {
+const App = () => {
   const [count, setCount] = useState(0);
 
   return (
@@ -45,6 +45,6 @@ function App() {
       </div>
     </>
   );
-}
+};
 
 export default App;
